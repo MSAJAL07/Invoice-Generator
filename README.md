@@ -6,4 +6,4 @@ It takes the template bill which has some variable inside square brackets and a 
 ### sample template
 
 
-![alt tag] (https://github.com/MSAJAL07/Invoice-Generator/raw/master/template.png)
+![alt tag](https://github.com/MSAJAL07/Invoice-Generator/raw/master/template.png) 
